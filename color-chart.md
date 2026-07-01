@@ -1,5 +1,5 @@
 # Edited on 01-07-26
-
+# Edited on 02-07-26
 # Hex Color Reference Table
 
 | Color Name | Hex Code | Category |  |
