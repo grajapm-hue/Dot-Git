@@ -1,5 +1,7 @@
 # Edited on 01-07-26
+
 # Edited on 02-07-26
+
 # Hex Color Reference Table
 
 | Color Name | Hex Code | Category |  |
@@ -36,4 +38,3 @@
 | Indigo | `#4B0082` | Yellow-Green | `#B4FF7D` |
 | Black | `#000000` | White | `#FFFFFF` |
 | Dark Grey | `#404040` | Light Grey | `#BFBFBF` |
-
