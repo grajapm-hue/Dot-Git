@@ -1,6 +1,5 @@
-# Edited On : 02-07-26: 9.00pm
-
-# Markdown Syntax → Pronunciation → HTML Cheatsheet
+# markdown-syntax-cheatsheet
+- → Pronunciation → HTML 
 
 *Built for slide decks + HTML adaptation (marC workflow)*
 
