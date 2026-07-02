@@ -1,4 +1,5 @@
-# Updated : 02-07-26
+# Edited on 02-07-26
+
 # Markdown vs HTML Syntax Comparison
 
 **Similar Functions Side-by-Side** *Updated June 2026*
