@@ -38,4 +38,3 @@
 | Indigo | `#4B0082` | Yellow-Green | `#B4FF7D` |
 | Black | `#000000` | White | `#FFFFFF` |
 | Dark Grey | `#404040` | Light Grey | `#BFBFBF` |
-
