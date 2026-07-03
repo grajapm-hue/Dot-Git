@@ -28,11 +28,11 @@ Sample
 x
 ---
 ---
-
+---
 ## Table of Contents
 * [👉 Go to Important Note](#important-note)
 * [👉 Go to Project Data](#project-data)
-* [👉 Return to Top](#top)
+
 
 ---
 ---
