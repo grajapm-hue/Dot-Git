@@ -2,6 +2,7 @@ dillinger-test
 
 <a name="TOP"></a>
 # TOP 
+<a name="Integrated Documentation Sample"></a>
 # Integrated Documentation Sample
 ## Table of Contents
 * [👉 Go to Important Note](#important-note)
@@ -34,11 +35,6 @@ x
 ---
 ---
 ---
-## Table of Contents
-* [👉 Go to Important Note](#important-note)
-* [👉 Go to Project Data](#project-data)
-* [👆 Return to Top](#top)
-
 ---
 ---
 x
@@ -68,7 +64,7 @@ Sample
 ---
 x
 ---
-
+* [👆 Return to Integrated Documentation Sample](#integrateddocumentation sample)
 ---
 <!-- Using name attribute for broader compatibility -->
 <a name="important-note"></a>
@@ -176,7 +172,7 @@ x
 ---
 
 
-* [👆 Return to Top](#top)
+* [👆 Return to Integrated Documentation Sample](#integrateddocumentation sample)
 
 
 
