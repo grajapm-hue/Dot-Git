@@ -3,7 +3,14 @@ dillinger-test
 # Integrated Documentation Sample
 Sample
 x
+---
 x
+---
+---
+x
+---
+x
+---
 x
 x
 x
