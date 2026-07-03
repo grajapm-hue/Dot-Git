@@ -1,1 +1,45 @@
 dillinger-test
+
+# Integrated Documentation Sample
+
+This document demonstrates combined styling and anchor navigation.
+
+---
+
+## Table of Contents
+* [👉 Go to Important Note](#important-note)
+* [👉 Go to Project Data](#project-data)
+* [👉 Return to Top](#top)
+
+---
+
+<!-- Using name attribute for broader compatibility -->
+<a name="important-note"></a>
+## 💡 Important Note
+<div style="border: 1px solid #e67e22; padding: 15px; background-color: #fef5e7;">
+  <span style="color: #e67e22; font-weight: bold;">Attention:</span> This section is highlighted to grab your focus.
+</div>
+
+---
+
+<a name="project-data"></a>
+## 📊 Project Data
+This table utilizes fixed widths and background colors for a professional look.
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr style="background-color: #2c3e50; color: #ffffff;">
+    <th style="width: 40%; padding: 10px;">Category</th>
+    <th style="width: 60%; padding: 10px;">Details</th>
+  </tr>
+  <tr style="height: 60px;">
+    <td style="padding: 10px;">Development</td>
+    <td style="padding: 10px;">Focus on <span style="color: #2980b9; font-weight: bold;">Mobile Compatibility</span>.</td>
+  </tr>
+</table>
+
+---
+
+### Navigation Helper
+* [👆 Return to Top](#top)
+
+<a name="top"></a>
