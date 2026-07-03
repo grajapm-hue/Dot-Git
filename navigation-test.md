@@ -1,4 +1,4 @@
-dillinger-test
+navigation-test
 
 <a name="Integrated Documentation Sample"></a>
 # Integrated Documentation Sample
