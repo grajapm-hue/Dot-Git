@@ -43,3 +43,4 @@ This table utilizes fixed widths and background colors for a professional look.
 * [👆 Return to Top](#top)
 
 <a name="top"></a>
+
