@@ -3,6 +3,9 @@ dillinger-test
 <a name="TOP"></a>
 # TOP 
 # Integrated Documentation Sample
+## Table of Contents
+* [👉 Go to Important Note](#important-note)
+* [👉 Go to Project Data](#project-data)
 ---
 x
 ---
