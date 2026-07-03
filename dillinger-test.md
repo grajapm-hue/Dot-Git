@@ -1,6 +1,5 @@
 dillinger-test
 
-
 <a name="Integrated Documentation Sample"></a>
 # Integrated Documentation Sample
 ## Table of Contents
@@ -9,64 +8,111 @@ dillinger-test
 * [👆 Return to Integrated Documentation Sample](#integrated-documentation-sample)
 
 ---
+
 x
+
 ---
+
 Sample
 
 ---
+
 x
+
 ---
+
 x
+
 ---
+
 Sample
 
 ---
+
 x
+
 ---
+
 x
+
 ---
+
 Sample
 
 ---
+
 ---
+
 x
+
 ---
-Sample
+
+Sample x
+
+---
+
+---
+
+---
+
+---
+
+---
+
 x
+
 ---
----
----
----
----
-x
----
+
 Sample
 
 ---
+
 ---
+
 x
+
 ---
+
+Sample x
+
+---
+
+---
+
+x
+
+---
+
 Sample
+
+---
+
+---
+
 x
+
 ---
+
 ---
+
 x
+
 ---
+
 Sample
+
 ---
+
 ---
+
 x
+
 ---
+
+- [👆 Return to Integrated Documentation Sample](<#integrateddocumentation sample>)
+
 ---
-x
----
-Sample
----
----
-x
----
-* [👆 Return to Integrated Documentation Sample](#integrateddocumentation sample)
----
+
 <!-- Using name attribute for broader compatibility -->
 <a name="important-note"></a>
 ## 💡 Important Note
@@ -75,34 +121,57 @@ x
 </div>
 
 ---
-* [👉 Go to Important Note](#important-note)
-*[👆 Return to Integrated Documentation Sample](#integrated-documentation-sample)
-* [👉 Go to Project Data](#project-data)
+
+- [👉 Go to Important Note](#important-note)
+
+[*👆 Return to Integrated Documentation Sample*](#integrated-documentation-sample)
+
+- [👉 Go to Project Data](#project-data)
+
 ---
+
 x
+
 ---
-Sample
+
+Sample x
+
+---
+
+---
+
 x
+
 ---
----
-x
----
-Sample
----
----
-x
----
----
-x
----
+
 Sample
 
 ---
+
 ---
+
 x
+
 ---
+
+---
+
+x
+
+---
+
 Sample
+
+---
+
+---
+
 x
+
+---
+
+Sample x
+
 ---
 
 <a name="project-data"></a>
@@ -121,65 +190,103 @@ This table utilizes fixed widths and background colors for a professional look.
 </table>
 
 ---
-* [👉 Go to Important Note](#important-note)
-*[👆 Return to Integrated Documentation Sample](#integrated-documentation-sample)
-* [👉 Go to Project Data](#project-data)
+
+- [👉 Go to Important Note](#important-note)
+
+[*👆 Return to Integrated Documentation Sample*](#integrated-documentation-sample)
+
+- [👉 Go to Project Data](#project-data)
+
 ---
+
 x
+
 ---
-Sample
+
+Sample x
+
+---
+
+---
+
 x
+
 ---
+
+Sample x
+
 ---
+
+---
+
+---
+
 x
+
 ---
-Sample
-x
----
----
----
-x
----
+
 Sample
 
 ---
+
 ---
+
 x
+
 ---
+
 Sample
 
 ---
+
 ---
-Sample
+
+Sample x
+
+---
+
+---
+
 x
----
----
-x
+
 ---
 
 ### Navigation Helper
+
 ---
+
 x
+
 ---
+
 # Sample xyz
 
 ---
+
 ---
+
 x
+
 ---
+
 Sample
 
 ---
+
 ---
-Sample
+
+Sample x
+
+---
+
+---
+
 x
----
----
-x
+
 ---
 
+- [👉 Go to Important Note](#important-note)
 
-* [👉 Go to Important Note](#important-note)
-*[👆 Return to Integrated Documentation Sample](#integrated-documentation-sample)
-* [👉 Go to Project Data](#project-data)
+[*👆 Return to Integrated Documentation Sample*](#integrated-documentation-sample)
 
+- [👉 Go to Project Data](#project-data)
