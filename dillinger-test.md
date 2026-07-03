@@ -1,30 +1,32 @@
 dillinger-test
 
 # Integrated Documentation Sample
+---
+x
+---
+Sample
+
+---
+x
+---
+x
+---
 Sample
 x
 ---
 x
 ---
+x
+---
+Sample
+x
+---
 ---
 x
 ---
+Sample
 x
 ---
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
 ---
 
 ## Table of Contents
@@ -33,27 +35,30 @@ x
 * [👉 Return to Top](#top)
 
 ---
+---
 x
+---
+Sample
 x
+---
+---
 x
+---
+Sample
 x
+---
+---
 x
+---
+Sample
 x
+---
+---
 x
+---
+Sample
 x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
+---
 
 <!-- Using name attribute for broader compatibility -->
 <a name="important-note"></a>
@@ -63,27 +68,30 @@ x
 </div>
 
 ---
+---
 x
+---
+Sample
 x
+---
+---
 x
+---
+Sample
 x
+---
+---
 x
+---
+Sample
 x
+---
+---
 x
+---
+Sample
 x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
+---
 
 <a name="project-data"></a>
 ## 📊 Project Data
@@ -101,32 +109,38 @@ This table utilizes fixed widths and background colors for a professional look.
 </table>
 
 ---
+---
 x
+---
+Sample
 x
+---
+---
 x
+---
+Sample
 x
+---
+---
+---
 x
+---
+Sample
 x
+---
+---
 x
+---
+Sample
 x
+---
+---
+Sample
 x
+---
+---
 x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
+---
 
 ### Navigation Helper
 * [👆 Return to Top](#top)
