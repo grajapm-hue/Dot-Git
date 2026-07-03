@@ -75,6 +75,9 @@ x
 </div>
 
 ---
+* [👉 Go to Important Note](#important-note)
+*[👆 Return to Integrated Documentation Sample](#integrated-documentation-sample)
+* [👉 Go to Project Data](#project-data)
 ---
 x
 ---
@@ -118,6 +121,9 @@ This table utilizes fixed widths and background colors for a professional look.
 </table>
 
 ---
+* [👉 Go to Important Note](#important-note)
+*[👆 Return to Integrated Documentation Sample](#integrated-documentation-sample)
+* [👉 Go to Project Data](#project-data)
 ---
 x
 ---
@@ -173,7 +179,7 @@ x
 ---
 
 
+* [👉 Go to Important Note](#important-note)
 *[👆 Return to Integrated Documentation Sample](#integrated-documentation-sample)
-
-
+* [👉 Go to Project Data](#project-data)
 
