@@ -59,11 +59,9 @@ This table utilizes fixed widths and background colors for a professional look.
 
 ---
 
-
 ---
 
 ### Navigation Helper
-
 
 ---
 
