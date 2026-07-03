@@ -34,44 +34,37 @@ x
 ## Table of Contents
 * [👉 Go to Important Note](#important-note)
 * [👉 Go to Project Data](#project-data)
-
-
----
----
-x
----
-Sample
-
----
----
-x
----
-Sample
-x
----
----
-x
----
-Sample
----
----
-x
----
----
-x
----
-Sample
----
----
-x
----
-* [👉 Go to Important Note](#important-note)
-* [👉 Go to Project Data](#project-data)
-
 * [👆 Return to Top](#top)
 
+---
+---
+x
+---
+Sample
 
-
+---
+---
+x
+---
+Sample
+x
+---
+---
+x
+---
+Sample
+---
+---
+x
+---
+---
+x
+---
+Sample
+---
+---
+x
+---
 
 ---
 <!-- Using name attribute for broader compatibility -->
