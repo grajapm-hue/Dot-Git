@@ -1,5 +1,7 @@
 dillinger-test
 
+<a name="TOP"></a>
+# TOP 
 # Integrated Documentation Sample
 ---
 x
@@ -63,7 +65,15 @@ Sample
 ---
 x
 ---
+* [👉 Go to Important Note](#important-note)
+* [👉 Go to Project Data](#project-data)
 
+* [👆 Return to Top](#top)
+
+
+
+
+---
 <!-- Using name attribute for broader compatibility -->
 <a name="important-note"></a>
 ## 💡 Important Note
@@ -172,5 +182,5 @@ x
 
 * [👆 Return to Top](#top)
 
-<a name="top"></a>
+
 
