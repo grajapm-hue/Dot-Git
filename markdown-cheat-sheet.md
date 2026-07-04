@@ -123,4 +123,4 @@ Markdown lets you drop **raw HTML tags directly** into a `.md` file. This is you
 
 ---
 
-*Pro tip: write your deck once in **`.md`**, then export to both slides (Marp) and a webpage (Pandoc → HTML). One source, two outputs.*
+*Pro tip: write your deck once in ****`.md`****, then export to both slides (Marp) and a webpage (Pandoc → HTML). One source, two outputs.*
