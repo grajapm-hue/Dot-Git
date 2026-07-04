@@ -146,13 +146,9 @@ Reference-style link: \[my repo\]\[repo\]
 
 Image from relative path (test with your Assets folders):
 
-
-
 ![Sample image](Assets/ImageAst/sample.png)
 
 Image that is also a link:
-
-
 
 ![Alt text](Assets/ImageAst/sample.png)
 
@@ -171,4 +167,3 @@ Image that is also a link:
 | Code blocks | ? | ? | ? |  |
 | Blockquote callouts | ? | ? | ? |  |
 | Images | ? | ? | ? |  |
-
