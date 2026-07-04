@@ -70,3 +70,4 @@ This table utilizes fixed widths and background colors for a professional look.
 [*👆 Return to Integrated Documentation Sample*](#integrated-documentation-sample)
 
 - [👉 Go to Project Data](#project-data)
+
