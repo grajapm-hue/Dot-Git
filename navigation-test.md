@@ -1,11 +1,14 @@
 navigation-test
 
-<a name="Integrated Documentation Sample"></a>
+<a name="Integrated Documentation Sample">
+
 # Integrated Documentation Sample
+
 ## Table of Contents
-* [👉 Go to Important Note](#important-note)
-* [👉 Go to Project Data](#project-data)
-* [👆 Return to Integrated Documentation Sample](#integrated-documentation-sample)
+
+- [👉 Go to Important Note](#important-note)
+- [👉 Go to Project Data](#project-data)
+- [👆 Return to Integrated Documentation Sample](#integrated-documentation-sample)
 
 ---
 
@@ -34,8 +37,10 @@ navigation-test
 
 ---
 
-<a name="project-data"></a>
+<a name="project-data">
+
 ## 📊 Project Data
+
 This table utilizes fixed widths and background colors for a professional look.
 
 <table style="width: 100%; border-collapse: collapse;">
@@ -70,4 +75,3 @@ This table utilizes fixed widths and background colors for a professional look.
 [*👆 Return to Integrated Documentation Sample*](#integrated-documentation-sample)
 
 - [👉 Go to Project Data](#project-data)
-
