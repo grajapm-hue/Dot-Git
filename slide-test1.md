@@ -56,6 +56,38 @@
 
 ---
 
+# Introduction to HTML
+
+## Grade 10 Computer Science
+
+## What is HTML?
+
+- Stands for HyperText Markup Language
+- The building block of every webpage
+- Uses tags to structure content
+
+## Basic HTML Tags
+
+# Main Heading
+
+- Paragraph
+- Link
+- Image
+
+## Today's Activity
+
+- Open Notepad
+- Write your first HTML page
+- Save as index.html and open in browser
+
+## Summary
+
+- HTML structures a webpage
+- Tags wrap content
+- Next class: CSS Styling
+
+---
+
 # Welcome to XYZ Company!
 
 ## Employee Onboarding — Day 1
